@@ -1,20 +1,4 @@
 
-    <div>
-      <div className="chart-row">
-          <ReactFC{...revenueChartConfigs}/>
-      </div>
-      <div className="chart-row">
-        <div className="inline-chart">
-          <ReactFC{...props_pie_chart_left}/>
-        </div>
-        <div className="inline-chart">
-          <ReactFC{...props_pie_chart_right}/>
-        </div>
-      </div>
-
-    </div>
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
